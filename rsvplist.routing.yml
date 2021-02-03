@@ -4,4 +4,4 @@ rsvplist.form:
     _form: '\Drupal\rsvplist\Form\RSVPForm'
     _title: 'RSVP for Events'
   requirements: 
-    _permission: 'access content'
+    _permission: 'view rsvplist'
